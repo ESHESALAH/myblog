@@ -1,0 +1,153 @@
+body{
+	background-color: #ccc;
+}
+.mydiv h1{
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+}
+.mydiv h2 {
+	 text-align: center;
+	 color: #fff;
+	 background-color: #000080;
+	 
+}
+.mydiv h3 {
+	 text-align: center;
+	 color:#FFFF00;
+}
+.mydiv {
+	background-color: #000080; 
+	text-align: center;
+	
+}
+.mydiv2{
+	background-color: #fff;
+	text-align: center;
+	height: 300px;
+	width: 1000px;
+	margin-left: 170px;
+	margin-right: 100px;
+
+}
+
+.mydiv2 h1{
+text-align: center;
+color:0000;
+background-color:#FFD700;
+height: 50px; 
+}
+.mydiv2 p{
+	color: #808080;
+	background-color: #fff;
+	text-align: center;
+	padding-left: 280px;
+	
+}
+.mydiv2 img{
+	padding right:13px;
+	padding-bottom: 40px;
+	margin-top: -125px;
+	float:top;
+	
+}
+.mydiv3{
+	background-color: #fff;
+	text-align: center;
+	height: 150px;
+	width: 350px;
+	margin-left: 170px;
+	margin-right: 100px;
+	}
+
+.mydiv3 h1{
+text-align: center;
+color:#000;
+background-color:#FFD700;
+height: 50px; 
+padding-left: 10px;
+}
+.mydiv3 ul li{
+	color: #808080;
+	background-color: #fff;
+	text-align: center;
+	padding-left: 80px;
+}
+
+.mydiv4{
+	background-color: #fff;
+	text-align: center;
+	height: 150px;
+	width: 350px;
+	margin-left: 820px;
+	margin-right: 100px;
+	margin-top: -170px;
+	margin-bottom: 240px;
+	position: relative;
+	}
+
+
+.mydiv4 h1{
+text-align: center;
+color:#000;
+background-color:#FFD700;
+height: 50px; 
+padding-left: 10px;
+}
+.mydiv4 ul li{
+	color: #808080;
+	background-color: #fff;
+	text-align: center;
+	padding-left: 80px;
+}
+
+.divTable
+    {
+        display:  table;
+        width:auto;
+        background-color:#FFD700;
+        border:1px solid:#6666;
+        border-spacing:5px;
+        margin-top: -290px;
+        margin-left: 350px;
+        margin-right:350px;
+        margin:100px auto;
+        height: 300px;
+	    width: 1000px;
+	    position: relative;
+	    top:-165px;
+
+         
+    }
+
+    .divRow
+    {
+       display:table-row;
+       width:auto;
+       background-color: #fff;
+    }
+
+    .divCell
+    {
+        float:left;
+        display:table-column;
+        width:200px;
+        
+    }
+ .footersection {
+  display: flex;
+  padding: 15px;
+  flex-direction: column;
+  background-color: #3d5060;
+}
+.footercontact {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  text-align: center;
+}
+
+.footersection h4 {
+  padding-top: 10px;
+  color: #FFD700;
+}

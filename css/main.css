@@ -1,0 +1,36 @@
+body{
+	background-color: #ccc;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+h2 {
+	 text-align: center;
+	 color: #fff;
+	 
+}
+h3 {
+	 text-align: center;
+	 color:#FFFF00;
+}
+.mydiv {
+	background-color: #000080; 
+	text-align: center;
+	
+}
+.mydiv2{
+	background-color: #FFFF00;
+	text-align: center;
+	flex: left;
+
+}
+
+p{
+text-align: center;
+color:0000;
+}
+p1 {
+	color: #fff;
+
+}
